@@ -1,9 +1,20 @@
-### Hi there 👋
+# Hi, I'm luminousky.
 
-Computer science teacher and developer who enjoys building useful things with code and sharing knowledge.
+Thoughtfully building useful software.
 
-[![Website](https://img.shields.io/badge/🌐_Website-luminousky.com-4A90D9?style=flat-square&logoColor=white)](https://luminousky.com)
+## Philosophy
 
-- 🌱 Currently learning: Python, Java, C
-- 🛠 Interested in: software development, computer science, AI education
-- 🚀 Working on: small programming tools and educational materials
+I value software that is:
+
+* Simple
+* Useful
+* Maintainable
+* Built to last
+
+My work is guided by thoughtful engineering, clear design, and open source.
+
+## Find me
+
+🌐 **Website:** https://luminousky.com
+
+✉️ **Email:** [hello@luminousky.com](mailto:hello@luminousky.com)
